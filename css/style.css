@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+    background-color: red;
+    background-blend-mode: overlay;
+    text-align: center;
+}
+.heading{
+   color: rgb(245, 240, 240);
+  figcaption{ 
+      color: white;
+  }
+}
+ul{
+    text-align: left;
+    color: white;
+    text-decoration-color: white;
+    font-size: 20px;
+    font-style: normal;
+    margin: 0 auto 50px auto;
+    max-width: 550px;
+    line-height-step: 100px;
+}
+figure{
+    background-image: url(../images/1.jpg);
+    background-blend-mode: overlay;
+}
+image{
+    max-width: 100%;
+}
+h2, h4{
+color: white;
+font-size: 20px;
+font-style: normal;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: normal;
+}
